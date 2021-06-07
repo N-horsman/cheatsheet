@@ -1,0 +1,50 @@
+h1 {
+  font-family: 'Limelight', cursive;
+
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+
+}
+
+/*visual rep table*/
+table visual {
+  height: 40%;
+  left: 10%;
+  /*margin: 20px auto; //centers table// */
+  overflow-y: scroll;
+  position: static;
+  width: 20%;
+}
+
+thead th {
+  background-color: #c9b2f1;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+tr{
+  background-color: #f0e9fb;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 5px;
+  }
+
+th, td {
+  padding: 20px;
+  text-align: center;
+  width: 33.3333%;
+}
+
+/* definitions table*/
+.descriptions {
+  background-color: #0000b3;
+  height: 20%;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+}
